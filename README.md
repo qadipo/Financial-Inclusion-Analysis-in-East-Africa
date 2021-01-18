@@ -10,4 +10,4 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 * Identify the key demographic factors that might drive individuals’ financial outcomes
 
 ## Data
-This data was extracted from various Finscope surveys ranging from 2016 to 2018 and is relevant for analysis. It contains demographic information and the various financial services that are used by individuals across East Africa.
+This data was extracted from various Finscope surveys ranging from 2016 to 2018. It contains demographic information and the various financial services that are used by individuals across East Africa.
